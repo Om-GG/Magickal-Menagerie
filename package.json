@@ -1,8 +1,8 @@
 {
-  "name": "my-fullstack-collection",
+  "name": "magickal-menagierie",
   "version": "0.1.0",
-  "description": "Build a fullstack collection app",
-  "repository": "https://https://github.com/dev-academy-challenges/my-fullstack-collection",
+  "description": "Create and care for your own virtual pet, embark on epic adventures in fantasy landscapes, and unlock hidden secrets. Level up, customise, and connect with friends in this captivating game app.",
+  "repository": "https://github.com/Om-GG/Magickal-Menagerie",
   "main": "server/index.ts",
   "scripts": {
     "build": "run-p build:client build:server",

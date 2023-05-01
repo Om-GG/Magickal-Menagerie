@@ -1,3 +1,5 @@
+![Alt text](./server/public/Images/MagickalMenagerie.png?raw=true "Magickal Menagerie")
+
 # Magickal Menagerie
 
 Welcome to Magickal Menagerie, the virtual pet-raising game where you can adopt your own magical creature and take care of it by feeding it, training it, and playing with it.
